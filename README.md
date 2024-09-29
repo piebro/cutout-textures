@@ -2,8 +2,6 @@
 
 Create random textures using generated cutout images.
 
-This is a small collection of scripts and example cutouts to generate textures.
-
 ![cutout-texture-example](examples/Tourmaline_crystal,_watermelon_colors,_long_prismatic_form_01_03.png)
 ![cutout-texture-example](examples/a_photo_of_a_big_squid_00_04.png)
 ![cutout-texture-example](examples/a_photo_of_a_coral_01_06.png)
@@ -12,10 +10,7 @@ This is a small collection of scripts and example cutouts to generate textures.
 ![cutout-texture-example](examples/Massive_brain_coral_formation,_intricate_maze-like_patterns_00_03.png)
 
 
-
-
-
-More generated cutout-textures can be found here: [selected](textures_selection) and [all](https://huggingface.co/datasets/piebro/cutout-textures).
+This is a small collection of scripts and example cutouts to generate textures. More generated cutout-textures can be found here: [selected](textures_selection) and [all](https://huggingface.co/datasets/piebro/cutout-textures).
 
 The [cutouts](cutouts) are generated with Flux.1 [dev] using fal.ai. Then the backgrounds of all the [images](cutouts_with_background) are removed using a model at fal.ai again. Here are some examples of these cutouts:
 
