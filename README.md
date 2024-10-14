@@ -84,7 +84,7 @@ mogrify -format jpg *.png
 
 ## More Projects
 
-More generative art, statistics or other projects of me can be found here: [piebro.github.io](https://piebro.github.io/).
+More generative art, statistics or other projects of me can be found here: [piebro.github.io](https://piebro.github.io?ref=github.com/piebro/cutout-textures).
 
 ## License
 
