@@ -82,6 +82,10 @@ python3 batch_generation.py cutouts_selection textures \
 mogrify -format jpg *.png
 ```
 
+## More Projects
+
+More generative art, statistics or other projects of me can be found here: [piebro.github.io](https://piebro.github.io/).
+
 ## License
 
 All code in this project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. The Images are licensed under the CC0 1.0 License.
